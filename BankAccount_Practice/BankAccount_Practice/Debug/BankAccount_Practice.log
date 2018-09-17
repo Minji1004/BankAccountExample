@@ -1,0 +1,13 @@
+﻿  AccountHandler.cpp
+c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.cpp(113): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.cpp(114): warning C5043: 'AccountHandler::Deposit': 예외 사양이 이전 선언과 일치하지 않습니다.
+  c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.h(17): note: 'AccountHandler::Deposit' 선언을 참조하십시오.
+c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.cpp(136): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.cpp(137): warning C5043: 'AccountHandler::Withdraw': 예외 사양이 이전 선언과 일치하지 않습니다.
+  c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.h(18): note: 'AccountHandler::Withdraw' 선언을 참조하십시오.
+c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.cpp(159): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.cpp(160): warning C5043: 'AccountHandler::Transfer': 예외 사양이 이전 선언과 일치하지 않습니다.
+  c:\users\dlals\source\repos\bankaccount_practice\bankaccount_practice\accounthandler.h(19): note: 'AccountHandler::Transfer' 선언을 참조하십시오.
+  BankAccountMain.cpp
+  코드를 생성하고 있습니다...
+  BankAccount_Practice.vcxproj -> C:\Users\dlals\source\repos\BankAccount_Practice\Debug\BankAccount_Practice.exe
